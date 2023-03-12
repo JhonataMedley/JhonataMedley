@@ -1,4 +1,4 @@
-## Olá! Eu sou Jhonata Santos
+### Olá! Eu sou Jhonata Santos 
 
 - 💻 Hoje trabalho como analiste de dado no Grupo Carrefour
 - 🌱 Estudando Python, JavaScrip e MySql
@@ -23,5 +23,6 @@
   <a href="https://www.linkedin.com/in/jhonata-nsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://wa.me/5511994002116" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
-
 </div>
+
+![jhonta GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasantos-py&show_icons=true&theme=dark)
