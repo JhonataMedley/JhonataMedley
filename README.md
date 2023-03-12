@@ -1,6 +1,6 @@
 ### Olá! Eu sou Jhonata Santos 
 
-- 💻 Hoje trabalho como analista de dados no Grupo Carrefour
+- 💻 Hoje trabalho como analista de dados no [Grupo Carrefour Brasil](https://www.grupocarrefourbrasil.com.br/)  
 - 🌱 Estudando Python, JavaScrip e MySql
 - 🎵 Músico
 - 💲 Investidor
