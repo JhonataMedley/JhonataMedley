@@ -26,3 +26,5 @@
   
 </div>
 
+![jhonta GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasantos-py&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasantos-py&layout=compact)](https://github.com/jhonatasantos-py/github-readme-stats)
