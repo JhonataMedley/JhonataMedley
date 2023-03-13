@@ -26,4 +26,3 @@
   
 </div>
 
-![jhonta GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasantos-py&show_icons=true&theme=dark)
