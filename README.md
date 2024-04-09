@@ -1,4 +1,4 @@
-### Olá! Eu sou Jhonata Santos 
+### Olá! Eu sou Jhonata Medley 
 
 - 💻 Hoje trabalho como analista de dados no [Grupo Carrefour Brasil](https://www.grupocarrefourbrasil.com.br/)  
 - 🌱 Estudando Python, JavaScript e MySql
