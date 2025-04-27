@@ -2,8 +2,6 @@
 
 - 💻 Hoje trabalho como analista de dados N2 no [Grupo Carrefour Brasil](https://www.grupocarrefourbrasil.com.br/)  
 - 🌱 Estudando Python, JavaScript e MySql
-- 🎵 Músico
-- 💲 Investidor
 ##
 
 
