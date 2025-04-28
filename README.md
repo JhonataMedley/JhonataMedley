@@ -23,5 +23,5 @@
   <a href="https://dev.to/jhonatasantos_py" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
 </div>
 
-![jhonta GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatasantos-py&show_icons=true&theme=dark)
+![jhonta GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataMedley&show_icons=true&theme=dark)
 
